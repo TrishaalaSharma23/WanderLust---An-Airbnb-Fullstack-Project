@@ -212,8 +212,8 @@ body {
     cursor: pointer !important;
 };
 
-@media (max-width: 1400px) {
-  .filters {
+@media (max-width: 1300px) {
+  .container-fluid .filters {
     visibility: hidden;
     width: 0;
     height: 0;
