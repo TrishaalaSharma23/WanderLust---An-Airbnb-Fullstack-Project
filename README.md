@@ -3,31 +3,6 @@
 🌐 Live Demo
 https://wanderlust-an-airbnb-fullstack-project.onrender.com
 
-A responsive Airbnb-inspired web application developed using HTML5, CSS3, and JavaScript. The project replicates the core frontend design of Airbnb with modern UI components, responsive layouts, and interactive sections for enhanced user experience.
-
-🚀 Features
-Fully Responsive Design
-Modern and Interactive UI
-Property Listing Sections
-Optimized Frontend Structure
-Cross-Browser Compatibility
-🛠️ Tech Stack
-HTML5
-CSS3
-JavaScript
-⚙️ Run Locally
-git clone <repository-link>
-
-Open index.html in the browser.
-
-🌐 Live Demo
-
-Add deployed project link here.
-
-first analyse the file then give
-Stopped thinking
-🏠 Airbnb Clone – Full Stack Web Application
-
 A full-stack Airbnb-inspired web application built with Node.js, Express.js, MongoDB, and EJS. The project implements property listing management, authentication, image uploads, reviews, and responsive UI for seamless booking platform simulation.
 
 🚀 Features
@@ -60,9 +35,6 @@ Express-Session
 
 ⚙️ Run Locally
 git clone <repository-link>
-cd project-folder
-npm install
-node app.js
 cd project-folder
 npm install
 node app.js
