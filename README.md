@@ -32,9 +32,11 @@ Cloudinary
 Multer
 Joi
 Express-Session
+ 
+Run Locally
+1) git clone <repository-link>
+2) cd project-folder
+3) npm install
+4) node app.js
 
-⚙️ Run Locally
-git clone <repository-link>
-cd project-folder
-npm install
-node app.js
+Developed by Trishaala Sharma.
