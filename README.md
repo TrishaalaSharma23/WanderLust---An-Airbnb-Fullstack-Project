@@ -16,21 +16,21 @@ Features
 
 Tech Stack
 1) Frontend:
-HTML5
-CSS3
-JavaScript
+HTML5, 
+CSS3, 
+JavaScript, 
 EJS
 2) Backend:
-Node.js
+Node.js,
 Express.js
 3) Database:
-MongoDB
+MongoDB,
 Mongoose
 4) Additional Tools & Libraries:
-Passport.js
-Cloudinary
-Multer
-Joi
+Passport.js, 
+Cloudinary, 
+Multer, 
+Joi, 
 Express-Session
  
 Run Locally
