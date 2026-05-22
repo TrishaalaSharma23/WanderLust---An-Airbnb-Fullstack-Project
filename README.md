@@ -1,32 +1,32 @@
 #WanderLust---An-Airbnb-Fullstack-Project
 
-🌐 Live Demo
+Live Demo
 https://wanderlust-an-airbnb-fullstack-project.onrender.com/listings
 
 A full-stack Airbnb-inspired web application built with Node.js, Express.js, MongoDB, and EJS. The project implements property listing management, authentication, image uploads, reviews, and responsive UI for seamless booking platform simulation.
 
-🚀 Features
+Features
 1) User Authentication & Authorization
-1) CRUD Operations for Listings
-1) Review & Rating System
-1) Cloudinary Image Upload Integration
-1) Session & Cookie Management
-1) Server-Side Validation with Joi
-1) Responsive MVC-Based Architecture
+2) CRUD Operations for Listings
+3) Review & Rating System
+4) Cloudinary Image Upload Integration
+5) Session & Cookie Management
+6) Server-Side Validation with Joi
+7) Responsive MVC-Based Architecture
 
-🛠️ Tech Stack
-   Frontend:
+Tech Stack
+1) Frontend:
 HTML5
 CSS3
 JavaScript
 EJS
-  Backend:
+2) Backend:
 Node.js
 Express.js
-  Database:
+3) Database:
 MongoDB
 Mongoose
-  Additional Tools & Libraries:
+4) Additional Tools & Libraries:
 Passport.js
 Cloudinary
 Multer
